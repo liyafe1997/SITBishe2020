@@ -1,0 +1,7 @@
+You can make a symbol link "WEBCONTENT" point to ../FrontEnd/bms_webpage/dist
+
+python3 SQLike.py server 127.0.0.1 1234
+
+username:admin
+password:admin
+

@@ -1,0 +1,7 @@
+id,name,number,factory,finished
+1,AAA,5,F1,1
+2,BBB,16,F2,0
+3,CCC,22,DAS,0
+4,EEE,10,DAS,1
+5,EEE,33,ADS,0
+6,ABC,5,LLL,0
