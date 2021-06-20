@@ -6,7 +6,7 @@
 
 这个是我2020年水的毕业设计...
 
-当时抽到了个“信息系统”的题目，为了搞起来不这么无聊，顺便想试试用[SQLike](https://github.com/liyafe1997/SQLike) & Python的http.server能不能搞出个看起来有模有样的东西
+当时抽到了个“信息系统”的题目，为了搞起来不这么无聊，顺便想试试用[SQLike](https://github.com/liyafe1997/SQLike) & Python的http.server（这里主要基于我[PySimpleWebServer](https://github.com/liyafe1997/PySimpleWebServer)这个repo里的东西）能不能搞出个看起来有模有样的东西
 
 前端用的Vue.js，UI用的一个叫Vue Material Dashboard的模板。FrontEnd/bms_webpage是一个webpack项目，你可以npm update/npm run build生成dist。
 
